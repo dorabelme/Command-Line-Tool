@@ -16,5 +16,5 @@ LS functionality built using Promise.all and Node.js. Download the repo and run 
 ## Installation
 
 1. `git clone git@github.com:dorabelme/Command-Line-Tool.git`
-2. Run `npm install` to get dependencies for the project.
+2. Run `npm install` to get dependencies for the project
 3. Run `nls [..]`, optional command line argument
