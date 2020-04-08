@@ -19,5 +19,8 @@
   "homepage": "https://github.com/dorabelme/Command-Line-Tool#readme",
   "bin": {
     "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
   }
 }
