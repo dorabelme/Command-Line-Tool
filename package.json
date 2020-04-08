@@ -1,0 +1,23 @@
+{
+  "name": "Command-Line-Tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorabelme/Command-Line-Tool.git"
+  },
+  "keywords": [],
+  "author": "Dora Belme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorabelme/Command-Line-Tool/issues"
+  },
+  "homepage": "https://github.com/dorabelme/Command-Line-Tool#readme",
+  "bin": {
+    "nls": "index.js"
+  }
+}
