@@ -5,7 +5,7 @@ LS functionality built using Promise.all and Node.js. Download the repo and run 
 ## Short demo:
 
 <p align ="center">
-<img src="./command.gif" alt="command line tool app example">
+<img src="./clt.gif" alt="command line tool app example">
 </p>
 
 ## Tech Stack
